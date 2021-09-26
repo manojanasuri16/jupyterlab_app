@@ -9,7 +9,7 @@ A desktop application for [JupyterLab](https://github.com/jupyterlab/jupyterlab)
 
 Before installing please read the [Python Environment Customization Guide](env-customization-guide.md) if you plan to customize the Python environment to add new packages.
 
-- [Arch, Manjaro Linux Installer](https://github.com/manojanasuri16/jupyterlab_app/releases/download/v3.1.12-1/jupyterlab-app-3.1.12-1-x86_64.zst)
+- [Arch, Manjaro Linux Installer](https://github.com/manojanasuri16/jupyterlab_app/releases/download/v3.1.12-1/jupyterlab-app-3.1.12-1-x86_64.zst) compiled from [JupyterLab Debian Package](https://github.com/jupyterlab/jupyterlab_app/releases/latest/download/JupyterLab-Setup-Debian.deb)
 - [Debian, Ubuntu Linux Installer](https://github.com/jupyterlab/jupyterlab_app/releases/latest/download/JupyterLab-Setup-Debian.deb)
 - [Red Hat, Fedora, SUSE Linux Installer](https://github.com/jupyterlab/jupyterlab_app/releases/latest/download/JupyterLab-Setup-Fedora.rpm)
 - [macOS Installer](https://github.com/jupyterlab/jupyterlab_app/releases/latest/download/JupyterLab-Setup-macOS.pkg)
