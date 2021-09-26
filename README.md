@@ -41,6 +41,23 @@ Before installing please read the [Python Environment Customization Guide](env-c
     ```bash
     npm install --global yarn
     ```
+## Steps to Install in Arch, Manjaro Linux
+
+- Download the [Installer](https://github.com/manojanasuri16/jupyterlab_app/releases/download/v3.1.12-1/jupyterlab-app-3.1.12-1-x86_64.zst) file.
+- Open Terminal and go to the downloaded installer file location.
+
+    ```bash
+      cd [path/to/file]
+    ```    
+    
+- Run the command to install the app
+
+    ```bash
+      sudo pacman -U [name_of_installer.zst]
+    ```    
+   
+- Wait for the package to download and build dependencies.
+- After some time, JupyterLab Native App is installed.
 
 ## Local development
 
